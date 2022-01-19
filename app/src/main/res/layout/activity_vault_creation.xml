@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.VaultCreationActivity"
+    android:background="@color/mint_background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_100sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:text="@string/welcome_to_safedata_vault_creation"
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_25sdp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_180sdp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:text="@string/please_enter_a_key_vault_creation"
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_15sdp" />
+
+    <RelativeLayout
+        android:layout_width="@dimen/_220sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_250sdp"
+        android:background="@drawable/rounded_corner_white">
+
+        <EditText
+            android:id="@+id/vault_creation_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:hint="@string/enter_your_key_here"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textColorHint="@color/dark_grey"
+            android:textSize="@dimen/_20sdp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_20sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_320sdp"
+        android:background="@drawable/rounded_corner_white"
+        >
+
+        <Button
+            android:id="@+id/vault_creation_1_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/transparent"
+            android:text="@string/continue_txt"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="@dimen/_20sdp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

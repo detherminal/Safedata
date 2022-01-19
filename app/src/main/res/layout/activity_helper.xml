@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.HelperActivity"
+    android:background="@color/mint_background"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/safedata_password_manager"
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_40sdp"
+        android:layout_marginLeft="@dimen/_20sdp"
+        android:layout_marginRight="@dimen/_20sdp"
+        />
+
+    <TextView
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp" />
+
+    <ImageView
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp"
+        android:src="@mipmap/safedata_logo"
+        />
+
+    <TextView
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/loading..."
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_30sdp"
+        android:textStyle="italic"
+        />
+
+</LinearLayout>

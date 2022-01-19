@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.MainActivity"
+    android:background="@color/mint_background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_100sdp"
+        android:text="@string/welcome_to_safedata"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_25sdp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/please_enter_the_key_for_your_vault"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_15sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_140sdp"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_200sdp"
+        android:layout_marginLeft="@dimen/_40sdp"
+        android:layout_marginRight="@dimen/_40sdp"
+        android:background="@drawable/rounded_corner_white">
+
+        <EditText
+            android:id="@+id/mainkey_input_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:hint="@string/enter_your_key_here"
+            android:imeOptions="actionDone"
+            android:importantForAutofill="no"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textColorHint="@color/dark_grey"
+            android:textSize="@dimen/_20sdp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_20sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:background="@drawable/rounded_corner_white"
+        >
+
+        <Button
+            android:id="@+id/main_page_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/transparent"
+            android:elevation="10dp"
+            android:text="@string/unlock"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="@dimen/_20sdp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_50sdp"
+        android:layout_marginRight="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:text="@string/warning_if_you_forgot_key"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_15sdp" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safedata</string>
+    <string name="input_your_app_name">アプリ名を入力してください</string>
+    <string name="input_your_password">パスワードを入力してください</string>
+    <string name="add_password">パスワードの追加</string>
+    <string name="save">保存する</string>
+    <string name="safedata_password_manager">SAFEDATAパスワードマネージャー</string>
+    <string name="loading...">読み込んでいます...</string>
+    <string name="welcome_to_safedata">Safedataへようこそ</string>
+    <string name="please_enter_the_key_for_your_vault">安全キーを入力してください</string>
+    <string name="enter_your_key_here">ここにキーを入力してください</string>
+    <string name="unlock">ロックを解除する</string>
+    <string name="warning_if_you_forgot_key">警告：ボールトキーを忘れた場合、ボールトを開くことはできません。</string>
+    <string name="welcome_to_safedata_vault_creation">"Safedata セーフクリエーションへようこそ "</string>
+    <string name="please_enter_a_key_vault_creation">パスワードボールトのキーを入力してください。 このキーは、ボールトのメインキーになります。</string>
+    <string name="continue_txt">継続する</string>
+    <string name="warning">警告！</string>
+    <string name="vault_creation_warning">このキーは、パスワードボールトを開くために使用されます。 このキーを忘れると、誰もこのボールトを開けることができず、パスワードにアクセスできなくなります。 また、誰かがこのキーを取得すると、パスワードボールトを開くこともできます。 したがって、メインのパスワードに注意を払い、それに応じて行動してください。</string>
+    <string name="create_vault">ヴォールトの作成</string>
+    <string name="deleted_password">パスワードを削除しました</string>
+    <string name="this_app_doesnt_support_large_screens">このアプリは大画面をサポートしていません</string>
+    <string name="password_cannot_be_empty">パスワードを空にすることはできません</string>
+    <string name="your_key_is_wrong">あなたの鍵は間違っています</string>
+    <string name="press_again_to_exit">もう一度押すと終了します</string>
+</resources>

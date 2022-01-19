@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_80sdp">
+
+        <TextView
+            android:id="@+id/customListView_AppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_35sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="App Name"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="@dimen/_25sdp"
+            />
+
+        <TextView
+            android:id="@+id/customListView_HashedPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:text="Hashed Password"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="@dimen/_15sdp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/dark_blue_text" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

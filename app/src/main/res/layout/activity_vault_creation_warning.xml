@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.VaultCreationWarningActivity"
+    android:background="@color/mint_background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_70sdp"
+        android:text="@string/warning"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="@dimen/_50sdp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/vault_creation_warning"
+        android:textSize="@dimen/_20sdp"
+        android:layout_marginRight="@dimen/_20sdp"
+        android:layout_marginLeft="@dimen/_20sdp"
+        android:textAlignment="center"
+        android:layout_marginTop="@dimen/_150sdp"
+        android:textColor="@color/dark_blue_text"
+        />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_20sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_430sdp"
+        android:background="@drawable/rounded_corner_white"
+        >
+
+        <Button
+            android:id="@+id/warning_continue_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/transparent"
+            android:text="@string/create_vault"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="@dimen/_20sdp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

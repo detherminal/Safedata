@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safedata</string>
+    <string name="input_your_app_name">Insira o nome do seu aplicativo</string>
+    <string name="input_your_password">Insira sua senha</string>
+    <string name="add_password">Adicionar senha</string>
+    <string name="save">"SALVE "</string>
+    <string name="safedata_password_manager">GERENCIADOR DE SENHAS DO SAFEDATA</string>
+    <string name="loading...">Carregando...</string>
+    <string name="welcome_to_safedata">Bem-vindo ao Safedata</string>
+    <string name="please_enter_the_key_for_your_vault">Digite a chave do seu cofre</string>
+    <string name="enter_your_key_here">Digite sua chave aqui</string>
+    <string name="unlock">DESBLOQUEAR</string>
+    <string name="warning_if_you_forgot_key">Aviso: Se a chave do cofre for esquecida, o cofre não pode ser aberto.</string>
+    <string name="welcome_to_safedata_vault_creation">Bem-vindo ao Safedata Vault Creation</string>
+    <string name="please_enter_a_key_vault_creation">Por favor, insira uma chave para o seu cofre de senha. Esta chave será a chave principal do seu cofre.</string>
+    <string name="continue_txt">PROSSEGUIR</string>
+    <string name="warning">AVISO!</string>
+    <string name="vault_creation_warning">Esta chave será usada para abrir seu cofre de senhas! Se você esquecer esta chave, ninguém, nem mesmo você, poderá abrir este cofre e você não conseguirá acessar suas senhas. Além disso, se alguém obtiver essa chave, também poderá abrir seu cofre de senhas. Portanto, preste atenção à sua senha principal e aja de acordo.</string>
+    <string name="create_vault">CRIAR VAULT</string>
+    <string name="deleted_password">Apagou a senha</string>
+    <string name="this_app_doesnt_support_large_screens">Este aplicativo não oferece suporte a telas grandes</string>
+    <string name="password_cannot_be_empty">A senha não pode ficar em branco</string>
+    <string name="your_key_is_wrong">Sua chave está errada</string>
+    <string name="press_again_to_exit">Pressione novamente para sair</string>
+</resources>

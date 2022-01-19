@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safedata</string>
+    <string name="input_your_app_name">Geben Sie Ihren App-Namen ein</string>
+    <string name="input_your_password">Geben Sie Ihr Passwort ein</string>
+    <string name="add_password">Passwort hinzufügen</string>
+    <string name="save">SPEICHERN</string>
+    <string name="safedata_password_manager">SAFEDATA PASSWORD MANAGER</string>
+    <string name="loading...">Wird geladen...</string>
+    <string name="welcome_to_safedata">Willkommen bei Safedata</string>
+    <string name="please_enter_the_key_for_your_vault">Bitte geben Sie den Schlüssel für Ihren Tresor ein</string>
+    <string name="enter_your_key_here">Geben Sie hier Ihren Schlüssel ein</string>
+    <string name="unlock">FREISCHALTEN</string>
+    <string name="warning_if_you_forgot_key">Achtung: Wenn der Tresorschlüssel vergessen wird, kann der Tresor nicht geöffnet werden.</string>
+    <string name="welcome_to_safedata_vault_creation">Willkommen bei der Safedata Vault-Erstellung</string>
+    <string name="please_enter_a_key_vault_creation">Bitte geben Sie einen Schlüssel für Ihren Passwort-Tresor ein. Dieser Schlüssel wird der Hauptschlüssel für Ihren Tresor sein.</string>
+    <string name="continue_txt">FORTFAHREN</string>
+    <string name="warning">WARNUNG!</string>
+    <string name="vault_creation_warning">Dieser Schlüssel wird zum Öffnen Ihres Passwort-Tresors verwendet! Wenn Sie diesen Schlüssel vergessen, kann niemand, selbst Sie, diesen Tresor nicht öffnen und Sie können Ihre Passwörter nicht erreichen. Wenn jemand diesen Schlüssel erhält, kann er auch Ihren Passwort-Tresor öffnen. Achten Sie daher bitte auf Ihr Hauptpasswort und handeln Sie entsprechend.</string>
+    <string name="create_vault">TRESOR ERSTELLEN</string>
+    <string name="deleted_password">Das Passwort gelöscht</string>
+    <string name="this_app_doesnt_support_large_screens">Diese App unterstützt keine großen Bildschirme</string>
+    <string name="password_cannot_be_empty">Passwort kann nicht leer sein</string>
+    <string name="your_key_is_wrong">Ihr Schlüssel ist falsch</string>
+    <string name="press_again_to_exit">Zum Beenden erneut drücken</string>
+</resources>

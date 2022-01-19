@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safedata</string>
+    <string name="input_your_app_name">Uygulama Adınızı Girin</string>
+    <string name="input_your_password">Parolanızı Girin</string>
+    <string name="add_password">Şifre Ekle</string>
+    <string name="save">Kaydet</string>
+    <string name="safedata_password_manager">SAFEDATA ŞİFRE YÖNETİCİSİ</string>
+    <string name="loading...">Yükleniyor...</string>
+    <string name="welcome_to_safedata">Safedata\'ya Hoşgeldiniz</string>
+    <string name="please_enter_the_key_for_your_vault">Lütfen Kasanızın Anahtarını Girin</string>
+    <string name="enter_your_key_here">Anahtarınızı Buraya Girin</string>
+    <string name="unlock">KİLİDİNİ AÇ</string>
+    <string name="warning_if_you_forgot_key">Uyarı: Kasa anahtarı unutulursa kasa açılamaz.</string>
+    <string name="welcome_to_safedata_vault_creation">Safedata Kasa Oluşturmaya Hoş Geldiniz</string>
+    <string name="please_enter_a_key_vault_creation">Lütfen şifre kasanız için bir anahtar girin. Bu anahtar, kasanızın ana anahtarı olacaktır.</string>
+    <string name="continue_txt">DEVAM ET</string>
+    <string name="warning">UYARI!</string>
+    <string name="vault_creation_warning">Bu anahtar şifre kasanızı açmak için kullanılacaktır! Bu anahtarı unutursanız, kimse bu kasayı açamaz ve şifrelerinize ulaşamazsınız. Ayrıca birisi bu anahtarı alırsa şifre kasanızı da açabilir. Bu yüzden lütfen ana şifrenize dikkat edin ve buna göre hareket edin.</string>
+    <string name="create_vault">KASAYI OLUŞTUR</string>
+    <string name="deleted_password">Şifre Silindi</string>
+    <string name="this_app_doesnt_support_large_screens">Bu uygulama geniş erkanları desteklemiyor</string>
+    <string name="password_cannot_be_empty">Şifre Boş Olamaz</string>
+    <string name="your_key_is_wrong">Şifreniz Yanlış</string>
+    <string name="press_again_to_exit">Çıkmak İçin Bir Daha Basın</string>
+</resources>

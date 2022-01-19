@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Safedata</string>
+    <string name="input_your_app_name">"输入您的应用名称 "</string>
+    <string name="input_your_password">"输入您的密码 "</string>
+    <string name="add_password">"添加密码 "</string>
+    <string name="save">"保存 "</string>
+    <string name="safedata_password_manager">"SAFEDATA 密码管理器 "</string>
+    <string name="loading...">"加载中... "</string>
+    <string name="welcome_to_safedata">欢迎来到 Safedata</string>
+    <string name="please_enter_the_key_for_your_vault">"请输入您的保险库的密钥 "</string>
+    <string name="enter_your_key_here">"在此处输入您的密钥 "</string>
+    <string name="unlock">"开锁 "</string>
+    <string name="warning_if_you_forgot_key">"警告：如果您忘记了保管库密钥，则无法打开保管库。 "</string>
+    <string name="welcome_to_safedata_vault_creation">欢迎使用 Safedata 安全创建</string>
+    <string name="please_enter_a_key_vault_creation">请输入密码保险箱的密钥。 此密钥将是您的保管库的主密钥。</string>
+    <string name="continue_txt">"继续 "</string>
+    <string name="warning">警告！</string>
+    <string name="vault_creation_warning">"此密钥将用于打开您的密码库！ 如果您忘记了这把钥匙，即使您无法打开这个保险库，也没有人无法获得您的密码。 此外，如果有人获得此密钥，他们也可以打开您的密码库。 所以请注意您的主密码并采取相应措施。 "</string>
+    <string name="create_vault">创建保险库</string>
+    <string name="deleted_password">"删除密码 "</string>
+    <string name="this_app_doesnt_support_large_screens">"此应用不支持大屏幕 "</string>
+    <string name="password_cannot_be_empty">"密码不能为空 "</string>
+    <string name="your_key_is_wrong">"你的钥匙错了 "</string>
+    <string name="press_again_to_exit">"再按一次退出 "</string>
+</resources>

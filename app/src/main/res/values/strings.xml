@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Safedata</string>
+    <string name="input_your_app_name">Input Your App Name</string>
+    <string name="input_your_password">Input Your Password</string>
+    <string name="add_password">Add Password</string>
+    <string name="save">SAVE</string>
+    <string name="safedata_password_manager">SAFEDATA PASSWORD MANAGER</string>
+    <string name="loading...">Loading...</string>
+    <string name="welcome_to_safedata">Welcome To Safedata</string>
+    <string name="please_enter_the_key_for_your_vault">Please Enter The Key For Your Vault</string>
+    <string name="enter_your_key_here">Enter Your Key Here</string>
+    <string name="unlock">UNLOCK</string>
+    <string name="warning_if_you_forgot_key">Warning: If the vault key is forgotten, the vault cannot be opened.</string>
+    <string name="welcome_to_safedata_vault_creation">Welcome To Safedata Vault Creation</string>
+    <string name="please_enter_a_key_vault_creation">Please enter a key for your password vault. This key will be the main key for your vault.</string>
+    <string name="continue_txt">CONTINUE</string>
+    <string name="warning">WARNING!</string>
+    <string name="vault_creation_warning">This key will be used for opening your password vault! If you forget this key, no one even you can\'t open this vault and you can\'t reach your passwords. Also, if someone gets this key, they can open your password vault too. So please pay attention to your main password and act accordingly.</string>
+    <string name="create_vault">CREATE VAULT</string>
+    <string name="deleted_password">Deleted The Password</string>
+    <string name="this_app_doesnt_support_large_screens">This app does not support large screens</string>
+    <string name="password_cannot_be_empty">Password Can Not Be Empty</string>
+    <string name="your_key_is_wrong">Your Key Is Wrong</string>
+    <string name="press_again_to_exit">Press Again To Exit</string>
+</resources>
