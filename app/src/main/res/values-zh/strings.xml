@@ -23,4 +23,5 @@
     <string name="password_cannot_be_empty">"密码不能为空 "</string>
     <string name="your_key_is_wrong">"你的钥匙错了 "</string>
     <string name="press_again_to_exit">"再按一次退出 "</string>
+    <string name="newer_version_available">此应用程序的较新版本可用。 请在使用前升级它。</string>
 </resources>

@@ -23,4 +23,5 @@
     <string name="password_cannot_be_empty">Le mot de passe ne peut pas être vide</string>
     <string name="your_key_is_wrong">Votre clé est fausse</string>
     <string name="press_again_to_exit">Appuyez à nouveau pour quitter</string>
+    <string name="newer_version_available">La version plus récente de cette application est disponible. Veuillez la mettre à niveau avant d\'utiliser.</string>
 </resources>

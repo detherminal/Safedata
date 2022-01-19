@@ -22,4 +22,5 @@
     <string name="password_cannot_be_empty">Password Can Not Be Empty</string>
     <string name="your_key_is_wrong">Your Key Is Wrong</string>
     <string name="press_again_to_exit">Press Again To Exit</string>
+    <string name="newer_version_available">Newer version of this app is available. Please upgrade it before you use.</string>
 </resources>

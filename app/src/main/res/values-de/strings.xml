@@ -23,4 +23,5 @@
     <string name="password_cannot_be_empty">Passwort kann nicht leer sein</string>
     <string name="your_key_is_wrong">Ihr Schlüssel ist falsch</string>
     <string name="press_again_to_exit">Zum Beenden erneut drücken</string>
+    <string name="newer_version_available">Die neuere Version dieser App ist verfügbar. Bitte aktualisieren Sie es, bevor Sie verwenden.</string>
 </resources>

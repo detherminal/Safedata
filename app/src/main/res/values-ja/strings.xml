@@ -23,4 +23,5 @@
     <string name="password_cannot_be_empty">パスワードを空にすることはできません</string>
     <string name="your_key_is_wrong">あなたの鍵は間違っています</string>
     <string name="press_again_to_exit">もう一度押すと終了します</string>
+    <string name="newer_version_available">このアプリの新しいバージョンは利用可能です。 使用する前にアップグレードしてください。</string>
 </resources>
