@@ -9,7 +9,10 @@ We are providing safety by using the AES-256 algorithm. In theory, this algorith
 
 # System Requirements
 
-
 -Ram: 1 GB \
 -Storage: 8 GB (Total Phone Storage) \
 -OS: Android 5.0 (Minimum)
+
+---------------------------------------------------------
+
+*Made By Detherminal, All Rights Reserved*
